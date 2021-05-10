@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maket/static/css/main.499983f1.chunk.css",
+    "main.js": "/maket/static/js/main.6465051b.chunk.js",
+    "main.js.map": "/maket/static/js/main.6465051b.chunk.js.map",
+    "runtime-main.js": "/maket/static/js/runtime-main.3d2f3e79.js",
+    "runtime-main.js.map": "/maket/static/js/runtime-main.3d2f3e79.js.map",
+    "static/js/2.046bfdcd.chunk.js": "/maket/static/js/2.046bfdcd.chunk.js",
+    "static/js/2.046bfdcd.chunk.js.map": "/maket/static/js/2.046bfdcd.chunk.js.map",
+    "static/js/3.a15eb1bd.chunk.js": "/maket/static/js/3.a15eb1bd.chunk.js",
+    "static/js/3.a15eb1bd.chunk.js.map": "/maket/static/js/3.a15eb1bd.chunk.js.map",
+    "index.html": "/maket/index.html",
+    "static/css/main.499983f1.chunk.css.map": "/maket/static/css/main.499983f1.chunk.css.map",
+    "static/js/2.046bfdcd.chunk.js.LICENSE.txt": "/maket/static/js/2.046bfdcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d2f3e79.js",
+    "static/js/2.046bfdcd.chunk.js",
+    "static/css/main.499983f1.chunk.css",
+    "static/js/main.6465051b.chunk.js"
+  ]
+}
