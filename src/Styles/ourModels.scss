@@ -1,0 +1,23 @@
+.our-models-container {
+    display: grid;
+    grid-template-columns: 1fr 3.5fr;
+    .model-filters {
+        padding: 5px 20px;
+    }
+    
+    .our-models {
+        padding: 5px 20px;
+        display: grid;
+        grid-gap: 15px;
+        grid-template-columns: repeat(3, 250px);
+    }
+
+    .slider-label {
+        margin-bottom: 35px;
+    }
+
+    .model-filter-slider {
+        margin-bottom: 15px;
+    }
+
+}
